@@ -1,0 +1,15 @@
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\BoxingUnBoxing\bin\Debug\net6.0\BoxingUnBoxing.exe
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\BoxingUnBoxing\bin\Debug\net6.0\BoxingUnBoxing.deps.json
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\BoxingUnBoxing\bin\Debug\net6.0\BoxingUnBoxing.runtimeconfig.json
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\BoxingUnBoxing\bin\Debug\net6.0\BoxingUnBoxing.dll
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\BoxingUnBoxing\bin\Debug\net6.0\BoxingUnBoxing.pdb
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\BoxingUnBoxing\obj\Debug\net6.0\BoxingUnBoxing.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\BoxingUnBoxing\obj\Debug\net6.0\BoxingUnBoxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\BoxingUnBoxing\obj\Debug\net6.0\BoxingUnBoxing.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\BoxingUnBoxing\obj\Debug\net6.0\BoxingUnBoxing.AssemblyInfo.cs
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\BoxingUnBoxing\obj\Debug\net6.0\BoxingUnBoxing.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\BoxingUnBoxing\obj\Debug\net6.0\BoxingUnBoxing.dll
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\BoxingUnBoxing\obj\Debug\net6.0\refint\BoxingUnBoxing.dll
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\BoxingUnBoxing\obj\Debug\net6.0\BoxingUnBoxing.pdb
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\BoxingUnBoxing\obj\Debug\net6.0\BoxingUnBoxing.genruntimeconfig.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\BoxingUnBoxing\obj\Debug\net6.0\ref\BoxingUnBoxing.dll
